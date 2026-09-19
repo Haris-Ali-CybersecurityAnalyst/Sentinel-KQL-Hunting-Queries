@@ -1,0 +1,1 @@
+# Sentinel-KQL-Hunting-Queries
